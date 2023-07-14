@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cba349c2c086ac4987272e34773267d, type: 3}
+  m_Name: yellow_sblood
+  m_EditorClassIdentifier: 
+  itemName: yellow_sblood
+  itemType: 7
+  itemImage: {fileID: 21300000, guid: 6faabfdb1d8bbd84f9797eb497428525, type: 3}
+  itemPrefab: {fileID: 3291838553523042458, guid: 9fd706051bf14184393b4600d8d4ddc2,
+    type: 3}
+  weaponType: 

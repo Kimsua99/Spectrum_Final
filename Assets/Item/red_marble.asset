@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cba349c2c086ac4987272e34773267d, type: 3}
+  m_Name: red_marble
+  m_EditorClassIdentifier: 
+  itemName: red_marble
+  itemType: 7
+  itemImage: {fileID: 21300000, guid: 0f60ec74edab8ee4dbfb8b85bee3c78a, type: 3}
+  itemPrefab: {fileID: 4112822482858072444, guid: 6f9f11f5adaf215408a2f9ac8eeadd6d,
+    type: 3}
+  weaponType: 
